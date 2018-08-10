@@ -23,5 +23,9 @@ class ViewController: UIViewController {
     override func perform(_ aSelector: Selector, with anArgument: Any?, afterDelay delay: TimeInterval, inModes modes: [RunLoopMode]) {
         <#code#>
     }
+    
+    override func viewWillDisappear(_ animated: Bool) {
+        <#code#>
+    }
 }
 
