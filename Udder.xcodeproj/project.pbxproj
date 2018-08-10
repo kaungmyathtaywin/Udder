@@ -12,6 +12,7 @@
 		52061711211E2E8700992C40 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5206170F211E2E8700992C40 /* Main.storyboard */; };
 		52061713211E2E8800992C40 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52061712211E2E8800992C40 /* Assets.xcassets */; };
 		52061716211E2E8800992C40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52061714211E2E8800992C40 /* LaunchScreen.storyboard */; };
+		521204A5211E36870073DF9C /* Udder.app in Resources */ = {isa = PBXBuildFile; fileRef = 52061708211E2E8700992C40 /* Udder.app */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -122,6 +123,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				521204A5211E36870073DF9C /* Udder.app in Resources */,
 				52061716211E2E8800992C40 /* LaunchScreen.storyboard in Resources */,
 				52061713211E2E8800992C40 /* Assets.xcassets in Resources */,
 				52061711211E2E8700992C40 /* Main.storyboard in Resources */,
